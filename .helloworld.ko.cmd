@@ -1,1 +1,0 @@
-cmd_/home/git/files/code/kernel/helloworld/helloworld.ko := ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o /home/git/files/code/kernel/helloworld/helloworld.ko /home/git/files/code/kernel/helloworld/helloworld.o /home/git/files/code/kernel/helloworld/helloworld.mod.o;  true
