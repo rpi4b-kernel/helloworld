@@ -1,7 +1,7 @@
 # helloworld
 
 加载内核模块  
-使用`insmod`加载模块 
+使用`insmod`加载模块  
 `insmod helloworld.ko`  
 
 使用`rmmod`卸载模块   
