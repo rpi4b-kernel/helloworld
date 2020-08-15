@@ -1,10 +1,11 @@
 # helloworld
 
 加载内核模块  
-使用`insmod`加载模块  
-> `insmod helloworld.ko`
-使用`rmmod`卸载模块
-> `rmmod helloworld`
+使用`insmod`加载模块 
+`insmod helloworld.ko`  
+
+使用`rmmod`卸载模块   
+`rmmod helloworld`
 
 使用`dmesg`查看信息  
 ```
